@@ -1,14 +1,14 @@
 # Contributing
 
-First off, thank you for considering contributing towards Dashy! 🙌
+First off, thank you for considering Contributing towards Dashy! 🙌
 There are several ways that you can help out (but don't feel you have to). 
-Any contributions, however small will always be very much appreciated, and you will be appropriately credited in the readme - huge thank you to [everyone who has helped](/docs/credits.md) so far 💞
+Any contributions, however small will always be very much appreciated, and you will be appropriately credited in the readme - huge thank you to [everyone who has helped](/docs/Credits.md) so far 💞
 
 ## Submit a PR
-Contributing to the code or documentation is super helpful. You can fix a bug, add a new feature or improve an existing one. I've written [several guides](https://github.com/Lissy93/dashy/blob/master/docs/development-guides.md) to help you get started. For setting up the development environment, outline of the standards, and understanding the PR flow, see the [Development Docs](https://github.com/Lissy93/dashy/blob/master/docs/development.md). I've tried to keep the code neat and documentation thorough, so understanding what everything does should be fairly straight forward, but feel free to ask if you have any questions.
+Contributing to the code or documentation is super helpful. You can fix a bug, add a new feature or improve an existing one. I've written [several guides](https://github.com/Lissy93/dashy/blob/master/docs/Development-Guides.md) to help you get started. For setting up the development environment, outline of the standards, and understanding the PR flow, see the [Development Docs](https://github.com/Lissy93/dashy/blob/master/docs/development.md). I've tried to keep the code neat and documentation thorough, so understanding what everything does should be fairly straight forward, but feel free to ask if you have any questions.
 
 ## Add Translations
-If you speak another language, then adding translations would be really helpful, and you will be credited in the readme for your work. Multi-language support makes Dashy accessible for non-English speakers, which I feel is important. This is a very quick and easy task, as all application text is located in [`locales/en.json`](https://github.com/Lissy93/dashy/blob/master/src/assets/locales/en.json), so adding a new language is as simple as copying this file and translating the values. You don't have to translate it all, as any missing attributes will just fallback to English. For a full tutorial, see the [Multi-Language Support Docs](https://github.com/Lissy93/dashy/blob/master/docs/multi-language-support.md).
+If you speak another language, then adding translations would be really helpful, and you will be credited in the readme for your work. Multi-language support makes Dashy accessible for non-English speakers, which I feel is important. This is a very quick and easy task, as all application text is located in [`locales/en.json`](https://github.com/Lissy93/dashy/blob/master/src/assets/locales/en.json), so adding a new language is as simple as copying this file and translating the values. You don't have to translate it all, as any missing attributes will just fallback to English. For a full tutorial, see the [Multi-Language Support Docs](https://github.com/Lissy93/dashy/blob/master/docs/Internationalization.md).
 
 ## Raise a bug
 If you've found a bug, then please do raise it as an issue. This will help me know if there's something that needs fixing. Try and include as much detail as possible, such as your environment, steps to reproduce, any console output and maybe an example screenshot or recording if necessary. You can [Raise a Bug here](https://github.com/Lissy93/dashy/issues/new?assignees=Lissy93&labels=%F0%9F%90%9B+Bug&template=bug-report---.md&title=%5BBUG%5D) 🐛.
@@ -17,17 +17,17 @@ If you've found a bug, then please do raise it as an issue. This will help me kn
 I've enabled the discussion feature on GitHub, here you can share tips and tricks, useful information, or your dashboard. You can also ask questions, and offer basic support to other users.
 
 ## Share your dashboard
-Dashy now has a [Showcase](https://github.com/Lissy93/dashy/blob/master/docs/showcase.md#dashy-showcase-) where you can show off a screenshot of your dashboard, and get inspiration from other users. I also really enjoy seeing how people are using Dashy. To [submit your dashboard](https://github.com/Lissy93/dashy/blob/master/docs/showcase.md#submitting-your-dashboard), please either open a PR or raise an issue.
+Dashy now has a [Dashy-Showcase-](https://github.com/Lissy93/dashy/blob/master/docs/Dashy-Showcase-.md#dashy-Dashy-Showcase--) where you can show off a screenshot of your dashboard, and get inspiration from other users. I also really enjoy seeing how people are using Dashy. To [submit your dashboard](https://github.com/Lissy93/dashy/blob/master/docs/Dashy-Showcase-.md#submitting-your-dashboard), please either open a PR or raise an issue.
 
 ## Spread the word
 Dashy is still a relatively young project, and as such not many people know of it. It would be great to see more users, and so it would be awesome if you could consider sharing on social platforms.
 
-[![Share Dashy on Mastodon](https://img.shields.io/badge/Share-Mastodon-%232b90d9?style=for-the-badge&logo=mastodon)](https://mastodon.social/?text=Check%20out%20Dashy%2C%20the%20privacy-friendly%2C%20self-hosted%20startpage%20for%20organizing%20your%20life%3A%20https%3A%2F%2Fgithub.com%2FLissy93%2Fdashy%20-%20By%20%40lissy93%40mastodon.social)
+[![Share Dashy on Mastodon](https://img.shields.io/badge/Share-Mastodon-%232b90d9?style=for-the-badge&logo=mastodon)](https://mastodon.social/?text=Check%20out%20Dashy%2C%20the%20Privacy--Security-friendly%2C%20self-hosted%20startpage%20for%20organizing%20your%20life%3A%20https%3A%2F%2Fgithub.com%2FLissy93%2Fdashy%20-%20By%20%40lissy93%40mastodon.social)
 [![Share Dashy on Reddit](https://img.shields.io/badge/Share-Reddit-%23FF5700?style=for-the-badge&logo=reddit)](http://www.reddit.com/submit?url=https://github.com/Lissy93/dashy&title=Dashy%20-%20The%20self-hosted%20dashboard%20for%20your%20homelab%20%F0%9F%9A%80)
 [![Share Dashy on Twitter](https://img.shields.io/badge/Share-Twitter-%231DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?url=https://github.com/lissy93/dashy&text=Check%20out%20Dashy%20by%20@Lissy_Sykes,%20the%20self-hosted%20dashboard%20for%20your%20homelab%20%F0%9F%9A%80)
 [![Share Dashy on Facebook](https://img.shields.io/badge/Share-Facebook-%234267B2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/lissy93/dashy)
 [![Share Dashy on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/lissy93/dashy)
-[![Share Dashy on Pinterest](https://img.shields.io/badge/Share-Pinterest-%23E60023?style=for-the-badge&logo=pinterest)](https://pinterest.com/pin/create/button/?url=https://github.com/lissy93/dashy&media=https://raw.githubusercontent.com/Lissy93/dashy/master/docs/showcase/1-home-lab-material.png&description=Check%20out%20Dashy,%20the%20self-hosted%20dashboard%20for%20your%20homelab%20%F0%9F%9A%80)
+[![Share Dashy on Pinterest](https://img.shields.io/badge/Share-Pinterest-%23E60023?style=for-the-badge&logo=pinterest)](https://pinterest.com/pin/create/button/?url=https://github.com/lissy93/dashy&media=https://raw.githubusercontent.com/Lissy93/dashy/master/docs/Dashy-Showcase-/1-home-lab-material.png&description=Check%20out%20Dashy,%20the%20self-hosted%20dashboard%20for%20your%20homelab%20%F0%9F%9A%80)
 [![Share Dashy on VK](https://img.shields.io/badge/Share-VK-%234C75A3?style=for-the-badge&logo=vk)](https://vk.com/share.php?url=https%3A%2F%2Fgithub.com%2Flissy93%2Fdashy%2F&title=Check%20out%20Dashy%20-%20The%20Self-Hosted%20Dashboard%20for%20your%20Homelab%20%F0%9F%9A%80)
 [![Share Dashy via Viber](https://img.shields.io/badge/Share-Viber-%238176d6?style=for-the-badge&logo=viber)](viber://forward?text=https%3A%2F%2Fgithub.com%2Flissy93%2Fdashy%0ACheck%20out%20Dashy%2C%20the%20self-hosted%20dashboard%20for%20your%20homelab%20%F0%9F%9A%80)
 [![Share Dashy via Telegram](https://img.shields.io/badge/Share-Telegram-%230088cc?style=for-the-badge&logo=telegram)](https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2Flissy93%2Fdashy&text=Check%20out%20Dashy%2C%20the%20self-hosted%20dashboard%20for%20your%20homelab%20%F0%9F%9A%80)
@@ -66,7 +66,7 @@ appConfig:
   enableErrorReporting: true
 ```
 
-All reporting is **disabled** by default, and no data will ever be sent to any external endpoint without your explicit consent. In fact, the error tracking package will not even be imported unless you have actively enabled it. All statistics are anonomized and stored securely. For more about privacy and security, see the [Sentry Docs](https://sentry.io/security/).
+All reporting is **disabled** by default, and no data will ever be sent to any external endpoint without your explicit consent. In fact, the error tracking package will not even be imported unless you have actively enabled it. All statistics are anonomized and stored securely. For more about Privacy--Security and security, see the [Sentry Docs](https://sentry.io/security/).
 
 ## Follow for More
 If you've enjoyed Dashy, you can follow the me to get updates about other projects that I am working on. Or [subscribe to my mailing list](https://notes.aliciasykes.com/subscribe) for very occasional blog post updates.
