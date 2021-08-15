@@ -74,7 +74,7 @@
 
 ## Demo ⚡
 
-> For more examples of Dashy in action, see: [**The Dashy-Showcase-**](./docs/Dashy-Showcase-.md)
+> For more examples of Dashy in action, see: [**The Dashy-Dashy-Dashy-Showcase---**](./docs/Dashy-Dashy-Dashy-Showcase---.md)
 
 #### Live Demos
 [Demo 1](https://dashy-demo-1.as93.net) ┆ [Demo 2](https://dashy-demo-2.as93.net) ┆ [Demo 3](https://dashy-demo-3.as93.net)
@@ -88,8 +88,8 @@
   <img width="800" src="https://i.ibb.co/L8YbNNc/dashy-demo2.gif" alt="Demo" />
 </p>
 
-#### User Dashy-Showcase-
-Are using Dashy? Want to share your dashboard here too - [Submit your Screenshots to the Dashy-Showcase-](./docs/Dashy-Showcase-.md#submitting-your-dashboard)!
+#### User Dashy-Dashy-Dashy-Showcase---
+Are using Dashy? Want to share your dashboard here too - [Submit your Screenshots to the Dashy-Dashy-Dashy-Showcase---](./docs/Dashy-Dashy-Dashy-Showcase---.md#submitting-your-dashboard)!
 
 ![Screenshots](https://i.ibb.co/r5T3MwM/dashy-screenshots.png)
 
@@ -419,7 +419,7 @@ Several areas that we need a bit of help with at the moment are:
 - Adding translations - Help make Dashy available to non-native English speakers by adding text for you're language
 - Donate a small amount, by [Sponsoring @Lissy93 on GitHub](https://github.com/sponsors/Lissy93) (only if you can afford to), and you'll also receive some extra perks!
 - Community Engagement: Join the [discussion](https://github.com/Lissy93/dashy/discussions), and help answer other users questions, or spread the word by sharing Dashy online
-- Share your dashboard in the [Dashy-Showcase-](https://github.com/Lissy93/dashy/blob/master/docs/Dashy-Showcase-.md#dashy-Dashy-Showcase--), to help provide inspiration for others
+- Share your dashboard in the [Dashy-Dashy-Dashy-Showcase---](https://github.com/Lissy93/dashy/blob/master/docs/Dashy-Dashy-Dashy-Showcase---.md#dashy-Dashy-Dashy-Dashy-Showcase----), to help provide inspiration for others
 - Submit a PR, to add a new feature, fix a bug, update the docs, add a theme or something else
 
 [![Sponsor Lissy93 on GitHub](./docs/assets/sponsor-button.svg)](https://github.com/sponsors/Lissy93)
@@ -502,7 +502,7 @@ If you're new to web development, I've put together a short [list of resources](
 - 🧱 [Developing](/docs/developing.md) - Running Dashy development server locally, and general workflow
 - 🛎️ [Development Guides](/docs/Development-Guides.md) - Common development tasks, to help new contributors
 - 💖 [Contributing](/docs/Contributing.md) - How to contribute to Dashy
-- 🌟 [Dashy-Showcase-](/docs/Dashy-Showcase-.md) - See how others are using Dashy, and share your dashboard
+- 🌟 [Dashy-Dashy-Dashy-Showcase---](/docs/Dashy-Dashy-Dashy-Showcase---.md) - See how others are using Dashy, and share your dashboard
 - 🏆 [Credits](/docs/Credits.md) - Shout out to the amazing people who have contributed so far
 
 #### Feature Docs
@@ -514,7 +514,7 @@ If you're new to web development, I've put together a short [list of resources](
 - 🎨 [Theming](/docs/theming.md) - Complete guide to applying, writing and modifying themes and styles
 
 #### Misc
-- [🔐 Privacy--Security & Security](/docs/Privacy--Security.md) - List of requests, potential issues, and security resources
+- [🔐 Privacy--Security--Security--Security & Security](/docs/Privacy--Security--Security--Security.md) - List of requests, potential issues, and security resources
 - [📄 License](/LICENSE) - Copy of the MIT License
 - [⚖️ Legal](/.github/LEGAL.md) - Licenses of direct dependencies
 - [📏 Code of Conduct](/.github/CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct
